@@ -1,0 +1,9 @@
+Weather Plot Observations
+
+1. As expected, maximum temperature is noticeably higher in the center of our Latitude range, closest to the Equator.
+2. There appears to be more humidity and Cloudiness north of the Equator, but it could be a limit of our sample.
+3. Wind Speed near the Equator is less severe
+
+
+
+  
